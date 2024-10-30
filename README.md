@@ -22,5 +22,5 @@ Train a neural network for sequences of your choice (LSTM, GRU, Convolutional, C
 Show and compare performance of both settings.
 
 
-**Midterm 4**: 
+## Midterm 4: 
 Read and summarize the main findings of a single paper. Chosen paper: _Aditya Ramesh et al. “Hierarchical Text-Conditional Image Generation with CLIP Latents." arxiv Preprint arxiv:2204.06125 (2022)_

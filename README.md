@@ -1,4 +1,4 @@
-# ISPR
+# ISPR: Intelligent Systems For Pattern Recognition
 
 _Collection of midterm projects for the Intelligent Systems for Pattern Recognition course._
 
